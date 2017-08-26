@@ -1,0 +1,7 @@
+html/
+vendor/
+.vscode/
+node_modules/
+dist/
+.idea/
+yarn.lock

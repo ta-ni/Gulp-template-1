@@ -1,0 +1,28 @@
+{
+  "name": "gulp-template-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp dev",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "del": "3.0.0",
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-concat": "2.6.1",
+    "gulp-if": "2.0.2",
+    "gulp-inject": "4.2.0",
+    "gulp-sass": "3.1.0",
+    "gulp-sourcemaps": "2.6.0",
+    "gulp-uglify": "3.0.0",
+    "gulp-cached": "1.1.1",
+    "gulp-csso": "3.0.0",
+    "gulp-htmlmin": "3.0.0",
+    "gulp-imagemin": "3.3.0",
+    "gulp-remember": "0.3.1",
+    "gulp-rename": "1.2.2",
+    "gulp-util": "3.0.8"
+  }
+}
